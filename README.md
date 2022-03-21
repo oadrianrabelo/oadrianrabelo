@@ -15,7 +15,5 @@
   <img align="center" alt="java" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
   <img align="center" alt="java" height="60" width="80" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg">
   <img align="center" alt="java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
 
