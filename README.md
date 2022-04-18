@@ -20,3 +20,7 @@
   
 ### <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=adrian-rabelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+![Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-rabelo&layout=compact&langs_count=7&theme=dracula)
