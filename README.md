@@ -25,7 +25,7 @@
 ![Bot Rabelin](https://img.shields.io/badge/-Bot%20Rabelin-5864F2?style=for-the-badge&logo=Discord&logoColor=white)
 
 <a href="https://github.com/kittinan/spotify-github-profile">
-<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=22aoknsyurozezltuuxheai2a&cover_image=true&theme=default">
+<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=22aoknsyurozezltuuxheai2a&cover_image=true&theme=natemoo-re">
 </a>
 
-<img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=22aoknsyurozezltuuxheai2a&count=7">
+<img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=22aoknsyurozezltuuxheai2a&count=3">
