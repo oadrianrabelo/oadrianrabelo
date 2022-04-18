@@ -28,4 +28,4 @@
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=22aoknsyurozezltuuxheai2a&cover_image=true&theme=natemoo-re">
 </a>
 
-<img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=22aoknsyurozezltuuxheai2a&count=3">
+<img align="left" width=300 src="https://spotify-recently-played-readme.vercel.app/api?user=22aoknsyurozezltuuxheai2a&count=3">
