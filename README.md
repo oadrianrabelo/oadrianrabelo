@@ -27,3 +27,5 @@
 <a href="https://github.com/kittinan/spotify-github-profile">
 <img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=22aoknsyurozezltuuxheai2a&cover_image=true&theme=default">
 </a>
+
+<img align="left" src="https://spotify-recently-played-readme.vercel.app/api?user=22aoknsyurozezltuuxheai2a&count=7">
