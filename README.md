@@ -3,7 +3,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrian-rabelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-rabelo&layout=compact&langs_count=7&theme=dracula"/>;
   </a>; -->
-![Github Stats](https://github-readme-stats.vercel.app/api?username=adrian-rabelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=adrian-rabelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true = 200px)
 
 ![Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-rabelo&layout=compact&langs_count=7&theme=dracula)
 
