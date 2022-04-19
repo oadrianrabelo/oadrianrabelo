@@ -9,8 +9,8 @@
 
 <a href="https://github.com/adrian-rabelo/github-stats-transparent">
 
-![](https://raw.githubusercontent.com/adrian-rabelo/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/adrian-rabelo/github-stats-transparent/output/generated/languages.svg)
+[![](https://raw.githubusercontent.com/adrian-rabelo/github-stats-transparent/output/generated/overview.svg)](#adrian-rabelo-title)
+[![](https://raw.githubusercontent.com/adrian-rabelo/github-stats-transparent/output/generated/languages.svg)](#adrian-rabelo-title)
 
 </a>
 
@@ -91,10 +91,10 @@
 
 # What i'm listening?
 
-<a href="https://github.com/kittinan/spotify-github-profile">
+<a href="https://open.spotify.com/playlist/1o3Op13AgYzFP6nbBBDZrw?si=967c66c24dda4bab">
 <img align="left" width=390 src="https://spotify-recently-played-readme.vercel.app/api?user=22aoknsyurozezltuuxheai2a&count=6">
 </a>
-<a href="https://github.com/kittinan/spotify-github-profile">
+<a href="https://open.spotify.com/playlist/1o3Op13AgYzFP6nbBBDZrw?si=967c66c24dda4bab">
 <img align="right" width="300" src="https://spotify-github-profile.vercel.app/api/view?uid=22aoknsyurozezltuuxheai2a&cover_image=true&theme=default">
 </a>
 
