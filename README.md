@@ -16,7 +16,7 @@
 
 <br>
 
-<h1 align="left"> Tools and languages that i like to work</h1>
+<h1 align="left">:ok_hand: Tools and languages that i like to work</h1>
 <table>
    <tr>
     <td align="center" width="96">
@@ -74,14 +74,11 @@
 </table>
 <br>
 
-## Follow me on: 
+## :handshake: Follow me on: 
 <a href="https://www.linkedin.com/in/adrian-rabelo/" target="_blank"> 
   <img src="https://img.shields.io/badge/Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/in/adrian-rabelo/" target="_blank"> 
-  <img src="https://img.shields.io/badge/-Bot%20Rabelin-5864F2?style=for-the-badge&logo=Discord&logoColor=white">
-</a>
 <a href="https://www.github.com/adrian-rabelo/" target="_blank"> 
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
@@ -89,7 +86,12 @@
 <br>
 <br>
 
-# What i'm listening?
+### :space_invader: The bot that i developing for my Discord Channel
+<a href="https://bot-discord-rabelin.adrianrabelo.repl.co" target="_blank"> 
+  <img src="https://img.shields.io/badge/-Bot%20Rabelin-5864F2?style=for-the-badge&logo=Discord&logoColor=white">
+</a>
+
+# :notes: What i'm listening?
 
 <a href="https://open.spotify.com/playlist/1o3Op13AgYzFP6nbBBDZrw?si=967c66c24dda4bab">
 <img align="left" width=390 src="https://spotify-recently-played-readme.vercel.app/api?user=22aoknsyurozezltuuxheai2a&count=6">
