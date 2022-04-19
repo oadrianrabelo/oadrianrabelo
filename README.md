@@ -2,7 +2,7 @@
 
 - :books: I'm currently developing my final paper
 - :seedling: I'm currently learning **Dart** for finishing the development of the paper
-- :notes: I really like Rock (Slipknot :black_heart:) <img width=12 src="https://www.logolynx.com/images/logolynx/93/93aa62ee99b17515ddb56cd7ccee42ba.png">
+- :notes: I really like Rock (Slipknot :black_heart:) <img width=30 src="https://www.logolynx.com/images/logolynx/93/93aa62ee99b17515ddb56cd7ccee42ba.png">
 - 
 
 
