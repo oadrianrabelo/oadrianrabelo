@@ -7,7 +7,7 @@
 - :exploding_head: &nbsp;I have some knowledge about Java, PHP Laravel, MySQL, HTML, CSS and Agile Software Development like Scrum and XP.
 
 
-<a href="https://github.com/adrian-rabelo/github-stats-transparent">
+<a href=#adrian-rabelo-title">
 
 [![](https://raw.githubusercontent.com/adrian-rabelo/github-stats-transparent/output/generated/overview.svg)](#adrian-rabelo-title)
 [![](https://raw.githubusercontent.com/adrian-rabelo/github-stats-transparent/output/generated/languages.svg)](#adrian-rabelo-title)
