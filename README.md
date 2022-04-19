@@ -2,7 +2,8 @@
 
 - :books: &nbsp;I'm currently developing my final paper
 - :seedling: &nbsp;I'm currently learning **Dart** for finishing the development of the paper
-- :notes: &nbsp;I really like Rock and Heavy Metal (Slipknot :black_heart:)
+- :guitar: &nbsp;I really like Rock and Heavy Metal (Slipknot :black_heart:)
+- :violin: &nbsp;I also like Classical Music
 - :exploding_head: &nbsp;I have some knowledge about Java, PHP Laravel, MySQL, HTML, CSS and Agile Software Development like Scrum and XP.
 
 
@@ -73,6 +74,7 @@
 </table>
 <br>
 
+## Follow me on: 
 <a href="https://www.linkedin.com/in/adrian-rabelo/" target="_blank"> 
   <img src="https://img.shields.io/badge/Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
@@ -84,8 +86,14 @@
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
+<br>
+
+# What i'm listening?
 
 <a href="https://github.com/kittinan/spotify-github-profile">
-<img align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=22aoknsyurozezltuuxheai2a&cover_image=true&theme=natemoo-re">
+<img align="left" width=390 src="https://spotify-recently-played-readme.vercel.app/api?user=22aoknsyurozezltuuxheai2a&count=6">
+</a>
+<a href="https://github.com/kittinan/spotify-github-profile">
+<img align="right" width="300" src="https://spotify-github-profile.vercel.app/api/view?uid=22aoknsyurozezltuuxheai2a&cover_image=true&theme=default">
 </a>
 
