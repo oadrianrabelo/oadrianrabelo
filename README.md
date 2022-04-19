@@ -34,8 +34,6 @@
       <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <br>CSS3
     </td>   
-    </tr>
-    <td>
     <td align="center" width="96">
       <a href="#adrian-rabelo">
       <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
