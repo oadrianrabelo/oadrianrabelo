@@ -1,10 +1,19 @@
 <h1> Salve <img width=40 src="https://slackmojis.com/emojis/48489-a_hangloose/download"></h1>
 
-- I like to 
+- :wave: I'm currently developing my Final Paper
+- a
+- a
+- a
 
-<img align="right" src="https://raw.githubusercontent.com/adrian-rabelo/github-stats-transparent/output/generated/overview.svg">
 
+<a href="https://github.com/adrian-rabelo/github-stats-transparent">
 
+![](https://raw.githubusercontent.com/adrian-rabelo/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/adrian-rabelo/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
 
 <h1 align="left"> Tools and languages that i like to work</h1>
 <table>
