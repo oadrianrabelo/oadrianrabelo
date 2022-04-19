@@ -1,10 +1,9 @@
 <h1> Salve <img width=40 src="https://slackmojis.com/emojis/48489-a_hangloose/download"></h1>
 
-- :books: I'm currently developing my final paper
-- :seedling: I'm currently learning **Dart** for finishing the development of the paper
-- :notes: I really like Rock (Slipknot :black_heart:) <img width=30 src="https://www.logolynx.com/images/logolynx/93/93aa62ee99b17515ddb56cd7ccee42ba.png">
-- 
-
+- :books: &nbsp;I'm currently developing my final paper
+- :seedling: &nbsp;I'm currently learning **Dart** for finishing the development of the paper
+- :notes: &nbsp;I really like Rock and Heavy Metal (Slipknot :black_heart:)
+- :exploding_head: &nbsp;I have some knowledge about Java, PHP Laravel, MySQL, HTML, CSS and Agile Software Development like Scrum and XP.
 
 
 <a href="https://github.com/adrian-rabelo/github-stats-transparent">
@@ -25,35 +24,50 @@
     </td>   
     <td align="center" width="96">
       <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-        <br>MySQL
+        <br>MySQL&nbsp;
     </td>   
     <td align="center" width="96">
       <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-        <br>Python
-    </td>   
+        <br>Python&nbsp;
+    </td>
+    <td align="center" width="96">
+      <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+      <br>Dart&nbsp;
+    </td>
+    <td align="center" width="96">
+      <img height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+      <br>Flutter&nbsp;
+    </td>
     <td align="center" width="96">
       <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        <br>HTML5
+        <br>HTML5&nbsp;
     </td>   
+    </tr>
+    <tr>
     <td align="center" width="96">
       <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <br>CSS3
+        <br>CSS3&nbsp;
     </td>   
     <td align="center" width="96">
       <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-        <br>Javascript
+        <br>Javascript&nbsp;
     </td>   
     <td align="center" width="96">
       <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
-        <br>PyCharm
+        <br>PyCharm&nbsp;
     </td>   
     <td align="center" width="96">
       <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg">
-        <br>IntelliJ
+        <br>IntelliJ&nbsp;
+    </td>   
+    </td>   
+    <td align="center" width="96">
+      <img height="48" width="48" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg">
+        <br>PHPStorm&nbsp;
     </td>   
     <td align="center" width="96">
       <img height="48" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-        <br>VSCode
+        <br>VSCode&nbsp;
     </td>
   </tr>
 </table>
@@ -65,6 +79,9 @@
 
 <a href="https://www.linkedin.com/in/adrian-rabelo/" target="_blank"> 
   <img src="https://img.shields.io/badge/-Bot%20Rabelin-5864F2?style=for-the-badge&logo=Discord&logoColor=white">
+</a>
+<a href="https://www.github.com/adrian-rabelo/" target="_blank"> 
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 
