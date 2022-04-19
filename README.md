@@ -1,9 +1,10 @@
 <h1> Salve <img width=40 src="https://slackmojis.com/emojis/48489-a_hangloose/download"></h1>
 
-- :wave: I'm currently developing my Final Paper
-- a
-- a
-- a
+- :books: I'm currently developing my final paper
+- :seedling: I'm currently learning **Dart** for finishing the development of the paper
+- :notes: I really like Rock (Slipknot :black_heart:) <img width=12 src="https://www.logolynx.com/images/logolynx/93/93aa62ee99b17515ddb56cd7ccee42ba.png">
+- 
+
 
 
 <a href="https://github.com/adrian-rabelo/github-stats-transparent">
